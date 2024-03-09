@@ -32,4 +32,4 @@ async def on_message(message):
     else:
         await message.channel.send("Tidak dapat memproses perintah ini, maaf")
 
-client.run("MTIxNTk3OTczNzcwMTE1OTAwMw.Gu6K54.1PRz6GbFPyHnHkGVm7NXqXxDW2T4ZXemnTddDA")
+client.run("TOKEN IS HERE")
